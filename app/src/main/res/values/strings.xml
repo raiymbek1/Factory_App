@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FactoryApp</string>
+    <string-array name="AvailableIDs">
+        <item>00100</item>
+        <item>00101</item>
+        <item>00102</item>
+        <item>00103</item>
+    </string-array>
+</resources>
+
